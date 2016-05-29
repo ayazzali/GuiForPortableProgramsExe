@@ -1,0 +1,53 @@
+F:\VS2012Projects\PortGui02\PortGui02\bin\Debug\PortGui02.exe
+F:\VS2012Projects\PortGui02\PortGui02\bin\Debug\PortGui02.pdb
+F:\VS2012Projects\PortGui02\PortGui02\obj\Debug\PortGui02.csprojResolveAssemblyReference.cache
+F:\VS2012Projects\PortGui02\PortGui02\obj\Debug\PortGui02.Form1.resources
+F:\VS2012Projects\PortGui02\PortGui02\obj\Debug\PortGui02.Properties.Resources.resources
+F:\VS2012Projects\PortGui02\PortGui02\obj\Debug\PortGui02.csproj.GenerateResource.Cache
+F:\VS2012Projects\PortGui02\PortGui02\obj\Debug\PortGui02.exe
+F:\VS2012Projects\PortGui02\PortGui02\obj\Debug\PortGui02.pdb
+F:\VS2012Projects\PortGui\PortGui02\PortGui02\obj\Debug\PortGui02.exe
+F:\VS2012Projects\PortGui\PortGui02\PortGui02\obj\Debug\PortGui02.pdb
+F:\VS2012Projects\PortGui\PortGui02\PortGui02\bin\Debug\PortGui02.exe
+F:\VS2012Projects\PortGui\PortGui02\PortGui02\bin\Debug\PortGui02.pdb
+F:\VS2012Projects\PortGui\PortGui02\PortGui02\obj\Debug\PortGui02.csprojResolveAssemblyReference.cache
+F:\VS2012Projects\PortGui\PortGui02\PortGui02\obj\Debug\PortGui02.Form1.resources
+F:\VS2012Projects\PortGui\PortGui02\PortGui02\obj\Debug\PortGui02.Properties.Resources.resources
+F:\VS2012Projects\PortGui\PortGui02\PortGui02\obj\Debug\PortGui02.csproj.GenerateResource.Cache
+E:\VS2012Projects\PortGui\PortGui02\PortGui02\obj\Debug\PortGui02.exe
+E:\VS2012Projects\PortGui\PortGui02\PortGui02\obj\Debug\PortGui02.pdb
+E:\VS2012Projects\PortGui\PortGui02\PortGui02\bin\Debug\PortGui02.exe
+E:\VS2012Projects\PortGui\PortGui02\PortGui02\obj\Debug\PortGui02.csprojResolveAssemblyReference.cache
+E:\VS2012Projects\PortGui\PortGui02\PortGui02\obj\Debug\PortGui02.Form1.resources
+E:\VS2012Projects\PortGui\PortGui02\PortGui02\obj\Debug\PortGui02.Properties.Resources.resources
+E:\VS2012Projects\PortGui\PortGui02\PortGui02\obj\Debug\PortGui02.csproj.GenerateResource.Cache
+E:\VS2012Projects\PortGui\PortGui02\PortGui02\bin\Debug\PortGui02.pdb
+F:\VS2012Projects\PortGui\PortGui02\PortGui02\bin\Debug\PortGui02.exe.config
+F:\VS2012Projects\PortGui\PortGui02Net3\PortGui02\bin\Debug\PortGui02.exe.config
+F:\VS2012Projects\PortGui\PortGui02Net3\PortGui02\obj\Debug\PortGui02.exe
+F:\VS2012Projects\PortGui\PortGui02Net3\PortGui02\obj\Debug\PortGui02.pdb
+F:\VS2012Projects\PortGui\PortGui02Net3\PortGui02\bin\Debug\PortGui02.exe
+F:\VS2012Projects\PortGui\PortGui02Net3\PortGui02\bin\Debug\PortGui02.pdb
+F:\VS2012Projects\PortGui\PortGui02Net3\PortGui02\obj\Debug\PortGui02.Form1.resources
+F:\VS2012Projects\PortGui\PortGui02Net3\PortGui02\obj\Debug\PortGui02.Properties.Resources.resources
+F:\VS2012Projects\PortGui\PortGui02Net3\PortGui02\obj\Debug\PortGui02.csproj.GenerateResource.Cache
+F:\VS2012Projects\PortGui\PortGui02Net3\PortGui02\obj\Debug\PortGui02.csprojResolveAssemblyReference.cache
+E:\PortGui02Net3\PortGui02\obj\Debug\ResolveAssemblyReference.cache
+E:\PortGui02Net3\PortGui02\obj\Debug\PortGui02.exe
+E:\PortGui02Net3\PortGui02\obj\Debug\PortGui02.pdb
+E:\PortGui02Net3\PortGui02\obj\Debug\PortGui02.Form1.resources
+E:\PortGui02Net3\PortGui02\obj\Debug\PortGui02.Properties.Resources.resources
+E:\PortGui02Net3\PortGui02\obj\Debug\GenerateResource.read.1.tlog
+E:\PortGui02Net3\PortGui02\obj\Debug\GenerateResource.write.1.tlog
+E:\PortGui02Net3\PortGui02\bin\Debug\PortGui02.exe.config
+E:\PortGui02Net3\PortGui02\bin\Debug\PortGui02.exe
+E:\PortGui02Net3\PortGui02\bin\Debug\PortGui02.pdb
+F:\VS2012Projects\PortGui\PortGui02Net4(былаЗ)поддержкаХР+расстояяние между иконками\PortGui02\bin\Debug\PortGui02.exe.config
+F:\VS2012Projects\PortGui\PortGui02Net4(былаЗ)поддержкаХР+расстояяние между иконками\PortGui02\bin\Debug\PortGui02.exe
+F:\VS2012Projects\PortGui\PortGui02Net4(былаЗ)поддержкаХР+расстояяние между иконками\PortGui02\bin\Debug\PortGui02.pdb
+F:\VS2012Projects\PortGui\PortGui02Net4(былаЗ)поддержкаХР+расстояяние между иконками\PortGui02\obj\Debug\PortGui02.csprojResolveAssemblyReference.cache
+F:\VS2012Projects\PortGui\PortGui02Net4(былаЗ)поддержкаХР+расстояяние между иконками\PortGui02\obj\Debug\PortGui02.Form1.resources
+F:\VS2012Projects\PortGui\PortGui02Net4(былаЗ)поддержкаХР+расстояяние между иконками\PortGui02\obj\Debug\PortGui02.Properties.Resources.resources
+F:\VS2012Projects\PortGui\PortGui02Net4(былаЗ)поддержкаХР+расстояяние между иконками\PortGui02\obj\Debug\PortGui02.csproj.GenerateResource.Cache
+F:\VS2012Projects\PortGui\PortGui02Net4(былаЗ)поддержкаХР+расстояяние между иконками\PortGui02\obj\Debug\PortGui02.exe
+F:\VS2012Projects\PortGui\PortGui02Net4(былаЗ)поддержкаХР+расстояяние между иконками\PortGui02\obj\Debug\PortGui02.pdb

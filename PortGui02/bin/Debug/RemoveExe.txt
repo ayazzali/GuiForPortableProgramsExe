@@ -1,0 +1,40 @@
+﻿\TeamViewer10\TeamViewer_Desktop.exe
+\TeamViewer10\TeamViewer_Desktop.exe
+\TeamViewer10\tv_w32.exe
+\TeamViewer10\tv_x64.exe
+\Total Commander\Noclose.exe
+\Total Commander\Noclose64.exe
+\Total Commander\Share_nt.exe
+\Total Commander\Tcmadm64.exe
+\Total Commander\Tcmadmin.exe
+\Total Commander\Tcmdx32.exe
+\CPU-Z\cpuz_x32_ru.exe
+\DD\PortGui02.exe
+\FastStone Capture\FSCrossHair.exe
+\FineReader11\BsnCrdReader.exe
+\FineReader11\HotFolder.exe
+\MS Office 2007 SP2 Pro\EQNEDT32.EXE
+\NOportable_Handbrake х64\HandBrakeCLI.exe
+\NOportable_Handbrake х64\uninst.exe
+\Total Commander\TcUsbRun.exe
+\Total Commander\Uninstall.exe
+\Total Commander\Wc32to16.exe
+\Total Commander\Tcmdx64.exe
+\CrystalDiskMark3_0_3bShizuku\DiskMark.exe
+\CrystalDiskMark3_0_3bShizuku\DiskMarkS.exe
+\CrystalDiskMark3_0_3bShizuku\DiskMarkSx64.exe
+\FineReader11\FineReaderCE11.144.exe
+\Total Commander\TotalCmd.exe
+\FastStone Capture\FSRecorder.exe
+\OpenServer\Open Server x86.exe
+\HP USB Disk Storage FormatTool (ENG + RUS)\HP USB Disk Storage FormatTool 2.2.3(ENG).exe
+\Recuva 1.41.534\Recuva.exe
+\DD\Microsoft .NET Framework 4.0.exe
+\SharpDevelop\BuildTools_Full.exe
+\SharpDevelop\Microsoft .NET Framework 4.5.exe
+\Tor Browser\plugin-container.exe
+\Tor Browser\plugin-hang-ui.exe
+\Tor Browser\updater.exe
+\TeamViewerPortable\ReID_TV_5-6-7.exe
+\TeamViewerPortable\tv_x64.exe
+\TeamViewerPortable\tv_w32.exe

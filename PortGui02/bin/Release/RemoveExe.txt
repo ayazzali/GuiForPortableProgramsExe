@@ -1,0 +1,16 @@
+﻿E:\PORT\Total Commander\Noclose64.exe
+E:\PORT\Total Commander\Share_nt.exe
+E:\PORT\Total Commander\Tcmadm64.exe
+E:\PORT\Total Commander\Tcmadmin.exe
+E:\PORT\Total Commander\Tcmdx32.exe
+E:\PORT\Total Commander\Tcmdx64.exe
+E:\PORT\Total Commander\TcUsbRun.exe
+E:\PORT\Total Commander\TotalCmd.exe
+E:\PORT\Total Commander\Uninstall.exe
+E:\PORT\Total Commander\Wc32to16.exe
+E:\PORT\TeamViewer10\tv_w32.exe
+E:\PORT\TeamViewer10\tv_x64.exe
+E:\PORT\Total Commander\Noclose.exe
+E:\PORT\TeamViewer10\TeamViewer_Desktop.exe
+E:\PORT\NOportable_Handbrake х64\uninst.exe
+E:\PORT\NOportable_Handbrake х64\HandBrakeCLI.exe
